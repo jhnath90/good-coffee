@@ -14,20 +14,7 @@ body {
   margin-bottom: -30px;
   background-position:  center;
   color: white;
-
-}
-
-.navbar {
-	font-family: 'Grand Hotel', cursive;
-	background: black;
-	margin: 0px;
-	border: 0px;
-	color: white;
-
-}
-
-h1 {
-	font-family: 'Grand Hotel', cursive;
+  font-family: 'Grand Hotel', cursive;
 	text-align: center;
 	  text-shadow: 0 1px 0 #ccc,
                0 2px 0 #c9c9c9,
@@ -44,6 +31,16 @@ h1 {
 
 
 }
+
+.navbar {
+	font-family: 'Grand Hotel', cursive;
+	background: black;
+	margin: 0px;
+	border: 0px;
+	color: white;
+
+}
+
 
 h3 {
 	text-align: center;
